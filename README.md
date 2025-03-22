@@ -3,7 +3,7 @@ I'm currently enrolled in the Master’s degree program in __Mathematical Engine
 
 __Areas of interest__: mathematical analysis, numerical analysis, C++ programming, PDEs, fluid mechanics, machine learning.
 
-__Email__:alessandro.pedone@mail.polimi.it
+__Email__: alessandro.pedone@mail.polimi.it
 
 ### Education
 Bachelor’s Degree in Mathematical Engineering at Politecnico di Milano [2021 - 2024]
