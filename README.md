@@ -5,7 +5,7 @@ __Email__: alessandro.pedone@mail.polimi.it
 
 __Areas of interest__: mathematical analysis, numerical analysis, PDEs, machine learning.
 
-__Programming__
+__Programming skills__
 
 <span style="white-space: nowrap;">
   <img src="./img/ptyhon.png" alt="Python Logo" width="50" height="50"/>
