@@ -7,10 +7,13 @@ __Areas of interest__: mathematical analysis, numerical analysis, PDEs, machine 
 
 __Programming__
 
-<img src="./img/ptyhon.png" alt="Python Logo" width="50" height="50"/>
-<img src="./img/c++.svg" alt="C++ Logo" width="50" height="50"/>
-<img src="./img/matlab.png" alt="C++ Logo" width="60" height="50"/>
-<img src="./img/latex.png" alt="C++ Logo" width="120" height="50" style="background-color: white;"/>
+<span style="white-space: nowrap;">
+  <img src="./img/ptyhon.png" alt="Python Logo" width="50" height="50"/>
+  <img src="./img/c++.svg" alt="C++ Logo" width="50" height="50"/>
+  <img src="./img/matlab.png" alt="MATLAB Logo" width="60" height="50"/>
+  <img src="./img/latex.png" alt="LaTeX Logo" width="120" height="50" style="background-color: white;"/>
+</span>
+
 
 ### Education
 Bachelor’s Degree in Mathematical Engineering at Politecnico di Milano [2021 - 2024]
