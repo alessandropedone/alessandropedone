@@ -11,7 +11,6 @@ __Programming__
   <img src="./img/ptyhon.png" alt="Python Logo" width="50" height="50"/>
   <img src="./img/c++.svg" alt="C++ Logo" width="50" height="50"/>
   <img src="./img/matlab.png" alt="MATLAB Logo" width="60" height="50"/>
-  <img src="./img/latex.png" alt="LaTeX Logo" width="120" height="50"/>
 </span>
 
 
