@@ -1,13 +1,16 @@
 ### Welcome! 
 I'm currently enrolled in the Master’s degree program in __Mathematical Engineering__ with a focus on Computational Science and Computational Learning at the Politecnico di Milano.
 
+__Email__: alessandro.pedone@mail.polimi.it
+
 __Areas of interest__: mathematical analysis, numerical analysis, PDEs, machine learning.
 
-__Programming skills__
+__Programming__
 
-<img src="./img/c++.svg" alt="Alt text" width="80" height="80"/>
-
-__Email__: alessandro.pedone@mail.polimi.it
+<img src="./img/ptyhon.png" alt="Python Logo" width="50" height="50"/>
+<img src="./img/c++.svg" alt="C++ Logo" width="50" height="50"/>
+<img src="./img/matlab.png" alt="C++ Logo" width="60" height="50"/>
+<img src="./img/latex.png" alt="C++ Logo" width="120" height="50" style="background-color: white;"/>
 
 ### Education
 Bachelor’s Degree in Mathematical Engineering at Politecnico di Milano [2021 - 2024]
