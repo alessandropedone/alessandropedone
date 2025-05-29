@@ -17,13 +17,14 @@ __Programming skills__
 ### Education
 Bachelor’s Degree in Mathematical Engineering at Politecnico di Milano [2021 - 2024]
 
-### The most interesting projects
+### Projects
+__The most intresting ones:__
 - ROM project (In progress): [coupling DL-ROMs with traditional solvers](https://github.com/alessandropedone/coupling-DL-ROM)
 - Deep Learning Projects: [image classification of blood cells](https://github.com/alessandropedone/anndl-hw1) and [image segmentation of Mars terrain](https://github.com/alessandropedone/anndl-hw2)
 - [Bachelor's Thesis](https://github.com/alessandropedone/cauchy-kowalevski-theorem): The Cauchy-Kowalevski theorem and some of its consequences
 - [Statistical Inference Project](https://github.com/alessandropedone/statistical-inference-project): math performance of italian high school students
 
-### Other C++ projects
+__Other C++ projects:__
 - Some optimization methods for real-valued functions [🔗](https://github.com/alessandropedone/real-function-optimization) 
 - Parallel implementations of two kind of solvers for the Poisson equation in the unit square  [🔗](https://github.com/alessandropedonelaplacian-unit-square) 
 - Implementation of a matrix class, particularly suited for sparse matrices: [🔗](https://github.com/alessandropedone/sparse-matrix)
