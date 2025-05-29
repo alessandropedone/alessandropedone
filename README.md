@@ -23,3 +23,7 @@ Bachelor’s Degree in Mathematical Engineering at Politecnico di Milano [2021 -
 - [Bachelor's Thesis](https://github.com/alessandropedone/cauchy-kowalevski-theorem): The Cauchy-Kowalevski theorem and some of its consequences
 - [Statistical Inference Project](https://github.com/alessandropedone/statistical-inference-project): math performance of italian high school students
 
+### Other C++ projects
+- Some optimization methods for real-valued functions: https://github.com/alessandropedone/real-function-optimization 
+- Parallel implementations of two kind of solvers for the Poisson equation in the unit square: https://github.com/alessandropedone/laplacian-unit-square
+- Implementation of a matrix class, particularly suited for sparse matrices: https://github.com/alessandropedone/sparse-matrix
