@@ -1,4 +1,4 @@
-### Welcome! 
+## Welcome! 
 I'm currently enrolled in the Master’s degree program in __Mathematical Engineering__ with a focus on Computational Science and Computational Learning at the Politecnico di Milano.
 
 __Email__: alessandro.pedone@mail.polimi.it
@@ -28,4 +28,4 @@ __The most intresting ones:__
 __Other C++ projects:__
 - Some optimization methods for real-valued functions [🔗](https://github.com/alessandropedone/real-function-optimization) 
 - Parallel implementations of two kind of solvers for the Poisson equation in the unit square  [🔗](https://github.com/alessandropedone/laplacian-unit-square) 
-- Implementation of a matrix class, particularly suited for sparse matrices: [🔗](https://github.com/alessandropedone/sparse-matrix)
+- Implementation of a matrix class, particularly suited for sparse matrices [🔗](https://github.com/alessandropedone/sparse-matrix)
