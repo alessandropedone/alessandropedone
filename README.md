@@ -3,7 +3,7 @@ I'm currently enrolled in the Master’s degree program in __Mathematical Engine
 
 __Email__: alessandro.pedone@mail.polimi.it
 
-__Areas of interest__: mathematical analysis, numerical analysis, PDEs, machine learning.
+__Areas of interest__: scientific machine learning, mathematical analysis, numerical analysis, PDEs.
 
 __Programming skills__
 
