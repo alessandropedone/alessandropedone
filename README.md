@@ -8,9 +8,10 @@ __Areas of interest__: scientific machine learning, numerical analysis, PDEs, ma
 __Programming skills__
 
 <span style="white-space: nowrap;">
-  <img src="./img/ptyhon.png" alt="Python Logo" width="50" height="50"/>
+  <img src="./img/ptyhon.png" alt="Python Logo" width="60" height="50"/>
   <img src="./img/c++.svg" alt="C++ Logo" width="50" height="50"/>
   <img src="./img/matlab.png" alt="MATLAB Logo" width="60" height="50"/>
+  <img src="./img/r.png" alt="R Logo" width="63" height="50"/>
 </span>
 
 
