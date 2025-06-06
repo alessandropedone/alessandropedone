@@ -3,7 +3,7 @@ I'm currently enrolled in the Master’s degree program in __Mathematical Engine
 
 __Email__: alessandro.pedone@mail.polimi.it
 
-__CV__: [🔗](https://github.com/alessandropedone/cv)
+__CV__: [🔗](https://github.com/alessandropedone/cv/blob/main/cv.pdf)
 
 __Areas of interest__: scientific machine learning, numerical analysis, PDEs, mathematical analysis.
 
