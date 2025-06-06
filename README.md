@@ -5,6 +5,8 @@ __Email__: alessandro.pedone@mail.polimi.it
 
 __CV__: [🔗](https://github.com/alessandropedone/cv/blob/main/cv.pdf)
 
+__LinkedIn__: [🔗](https://www.linkedin.com/in/alessandro-pedone-58288a368/)
+
 __Areas of interest__: scientific machine learning, numerical analysis, PDEs, mathematical analysis.
 
 __Programming skills__
