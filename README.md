@@ -17,6 +17,7 @@ __Programming skills__
 
 
 ### Education
+- Master's Degree in Mathematical Engineering at Politecnico di Milano [2024 - 2026]
 - Theoretical Foundations of Machine Learning 2025 – PhD Course at [MaLGa](https://malga.unige.it/) 
 - Bachelor’s Degree in Mathematical Engineering at Politecnico di Milano [2021 - 2024]
 
