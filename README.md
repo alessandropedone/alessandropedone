@@ -1,9 +1,8 @@
 ### Welcome! 
-I'm currently enrolled in the Master’s degree program in __Mathematical Engineering__ with a focus on Computational Science and Computational Learning at the Politecnico di Milano. \
-CV and contact information here [📄](https://github.com/alessandropedone/cv/blob/main/cv.pdf) \
-Let's connect!
+I'm currently enrolled in the Master’s degree program in __Mathematical Engineering__ with a focus on Computational Science and Computational Learning at the Politecnico di Milano. 
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30" style="vertical-align: middle;"/>](https://www.linkedin.com/in/alessandro-pedone-58288a368/)
+[![cv](https://img.shields.io/badge/CV-📝_read-blue)](https://github.com/alessandropedone/cv/blob/main/cv.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-👥_connect-blue?logo=linkedin)](https://www.linkedin.com/in/alessandro-pedone-58288a368/)
 
 __Areas of interest__: scientific machine learning, numerical analysis, PDEs, mathematical analysis.
 
