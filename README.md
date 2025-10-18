@@ -23,7 +23,7 @@ __Programming skills__
 
 ### Projects
 __The most intresting ones:__
-- ROM project (In progress): coupling CGA-DL-ROM with a traditional solver [🔗](https://github.com/alessandropedone/coupling-DL-ROM)
+- ROM project (In progress): Geom-DeepONet [🔗](https://github.com/alessandropedone/coupling-DL-ROM)
 - Deep Learning Projects: 
   - image classification of blood cells [🔗](https://github.com/alessandropedone/anndl-hw1) 
   - image segmentation of Mars terrain [🔗](https://github.com/alessandropedone/anndl-hw2)
