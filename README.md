@@ -1,9 +1,13 @@
 <div align="center">
 
-### Welcome! 
+### Welcome!
 
----
+<hr style="height:0.5px;border:none;background-color:#333;" />
+
+### About me
+
 </div>
+
 I'm currently enrolled in the Master’s degree program in __Mathematical Engineering__ with a focus on Computational Science and Computational Learning at the Politecnico di Milano. 
 
 [![cv](https://img.shields.io/badge/CV-📝_read-blue)](https://github.com/alessandropedone/cv/blob/main/cv.pdf)
@@ -20,12 +24,12 @@ __Programming skills__
   <img src="./img/r.png" alt="R Logo" width="63" height="50" style="vertical-align: middle;"/>
   </span>
 
+---
 
 <div align="center">
 
 ### Education 
 
----
 </div>
 
 - Master's Degree in Mathematical Engineering at Politecnico di Milano [2024 - 2026]
@@ -33,11 +37,12 @@ __Programming skills__
 - Theoretical Foundations of Machine Learning 2025 – PhD Course at [MaLGa](https://malga.unige.it/) 
 - Bachelor’s Degree in Mathematical Engineering at Politecnico di Milano [2021 - 2024]
 
+---
+
 <div align="center">
 
 ### Projects 
 
----
 </div>
 
 
