@@ -1,4 +1,9 @@
+<div align="center">
+
 ### Welcome! 
+
+---
+</div>
 I'm currently enrolled in the Master’s degree program in __Mathematical Engineering__ with a focus on Computational Science and Computational Learning at the Politecnico di Milano. 
 
 [![cv](https://img.shields.io/badge/CV-📝_read-blue)](https://github.com/alessandropedone/cv/blob/main/cv.pdf)
@@ -16,12 +21,26 @@ __Programming skills__
   </span>
 
 
-### Education
+<div align="center">
+
+### Education 
+
+---
+</div>
+
 - Master's Degree in Mathematical Engineering at Politecnico di Milano [2024 - 2026]
+- Workshop and Summer School on Applied Analysis 2025 - PhD Course at TU Chemnitz
 - Theoretical Foundations of Machine Learning 2025 – PhD Course at [MaLGa](https://malga.unige.it/) 
 - Bachelor’s Degree in Mathematical Engineering at Politecnico di Milano [2021 - 2024]
 
-### Projects
+<div align="center">
+
+### Projects 
+
+---
+</div>
+
+
 __The most intresting ones:__
 - ROM project (In progress): Geom-DeepONet [🔗](https://github.com/alessandropedone/coupling-DL-ROM)
 - Deep Learning Projects: 
