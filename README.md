@@ -13,8 +13,6 @@ I'm currently enrolled in the Master’s degree program in __Mathematical Engine
 [![cv](https://img.shields.io/badge/CV-📝_read-blue)](https://github.com/alessandropedone/cv/blob/main/cv.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-👥_connect-blue?logo=linkedin)](https://www.linkedin.com/in/alessandro-pedone-58288a368/)
 
-__Areas of interest__: scientific machine learning, numerical analysis, PDEs, mathematical analysis.
-
 __Programming skills__ 
 
 <span style="white-space: nowrap;">
