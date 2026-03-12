@@ -43,16 +43,22 @@ __Programming skills__
 
 </div>
 
+__Mathematical Anlysis:__
+- Bachelor's Thesis: The Cauchy-Kowalevski theorem and some of its consequences [🔗](https://github.com/alessandropedone/cauchy-kowalevski-theorem)
+- Contribution to Advanced PDEs exams solutions [🔗](https://github.com/alessandropedone/APDE_Exams)
 
-__The most intresting ones:__
+__Deep Learning:__
 - ROM project (In progress): Geom-DeepONet [🔗](https://github.com/alessandropedone/coupling-DL-ROM)
 - Deep Learning Projects: 
   - image classification of blood cells [🔗](https://github.com/alessandropedone/anndl-hw1) 
   - image segmentation of Mars terrain [🔗](https://github.com/alessandropedone/anndl-hw2)
-- Bachelor's Thesis: The Cauchy-Kowalevski theorem and some of its consequences [🔗](https://github.com/alessandropedone/cauchy-kowalevski-theorem)
-- Statistical Inference Project: math performance of italian high school students [🔗](https://github.com/alessandropedone/statistical-inference-project)
 
-__Other C++ projects:__
+__C++:__
 - Some optimization methods for real-valued functions [🔗](https://github.com/alessandropedone/real-function-optimization) 
-- Parallel implementations of two kind of solvers for the Poisson equation in the unit square  [🔗](https://github.com/alessandropedone/laplacian-unit-square) 
+- Parallel implementations of two kind of solvers for the Poisson equation in the unit square  [🔗](https://github.com/alessandropedone/laplacian-unit-square)
 - Implementation of a matrix class, particularly suited for sparse matrices [🔗](https://github.com/alessandropedone/sparse-matrix)
+
+__Miscellaneous:__
+- Statistical Inference Project: math performance of italian high school students [🔗](https://github.com/alessandropedone/statistical-inference-project)
+- Fluids Labs A.Y. 2025/2026 [🔗](https://github.com/alessandropedone/fluids-labs)
+
