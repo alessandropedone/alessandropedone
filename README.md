@@ -61,5 +61,5 @@ __C++:__
 __Miscellaneous:__
 - Statistical Inference Project: math performance of italian high school students [🔗](https://github.com/alessandropedone/statistical-inference-project)
 - Fluids Labs A.Y. 2025/2026 [🔗](https://github.com/alessandropedone/fluids-labs)
-- Python basics in WSL: tutorial [🔗](https://hexagonal-giraffe-6f8.notion.site/Python-basics-in-WSL-1a4e8405938380ca9618e921065015aa?pvs=73) and repository [🔗](https://github.com/alessandropedone/fluids-labs)
+- Python basics in WSL: tutorial [🔗](https://hexagonal-giraffe-6f8.notion.site/Python-basics-in-WSL-1a4e8405938380ca9618e921065015aa?pvs=73) repository [🔗](https://github.com/alessandropedone/python-tutorial)
 
