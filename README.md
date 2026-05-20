@@ -48,7 +48,7 @@ __Mathematical Anlysis:__
 - Contribution to Advanced PDEs exams solutions [🔗](https://github.com/alessandropedone/APDE_Exams)
 
 __Deep Learning:__
-- ROM project (In progress): Geom-DeepONet [🔗](https://github.com/alessandropedone/coupling-DL-ROM)
+- ROM project (In progress): deeponet-for-mems [🔗](https://github.com/alessandropedone/coupling-DL-ROM)
 - Deep Learning Projects: 
   - image classification of blood cells [🔗](https://github.com/alessandropedone/anndl-hw1) 
   - image segmentation of Mars terrain [🔗](https://github.com/alessandropedone/anndl-hw2)
