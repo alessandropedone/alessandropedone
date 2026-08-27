@@ -4,7 +4,8 @@
 
 <hr style="height:0.5px;border:none;background-color:#333;" />
 
-> Take a look a my Python Workflow Guide for Scientific Computing: tutorial [🔗](https://hexagonal-giraffe-6f8.notion.site/Python-basics-in-WSL-1a4e8405938380ca9618e921065015aa?pvs=73) and repository [🔗](https://github.com/alessandropedone/py-guide).
+>🐍 *Take a look at my Python Workflow Guide for Scientific Computing:  [tutorial 🔗](https://hexagonal-giraffe-6f8.notion.site/Python-basics-in-WSL-1a4e8405938380ca9618e921065015aa?pvs=73)  and [repository 🔗](https://github.com/alessandropedone/py-guide).*
+
 
 ### About me
 
