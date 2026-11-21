@@ -1,9 +1,5 @@
 <div align="center">
 
-### Welcome!
-
-<hr style="height:0.5px;border:none;background-color:#333;" />
-
 ### About me
 
 </div>
